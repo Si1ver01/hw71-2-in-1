@@ -1,0 +1,9 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.btn-block + .btn-block {
+  margin-top: 0;
+}
+
+.btn > .nav-link{
+  padding: 0;
+}
